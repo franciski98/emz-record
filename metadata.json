@@ -1,0 +1,6 @@
+{
+  "name": "EMZ RECORD",
+  "description": "Elite music experience platform for EMZ RECORD luxury music label",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
